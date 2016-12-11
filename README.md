@@ -1,1 +1,1 @@
-# Progamming assignments from the 'Learning From Data' course on edX
+Progamming assignments from the 'Learning From Data' course on edX
